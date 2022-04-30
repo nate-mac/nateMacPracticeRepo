@@ -1,0 +1,17 @@
+
+Pseudocode for sorting mail
+
+**for** each letter **if** it's from your parents **then** do something **else** do something else
+
+An "edge case" is any problem or exception which is _possible, but rare._
+
+In software engineering, if you have an edge case which only happens 0.1% of the time, but you have hundreds
+or millions of users, then you have a serious problem.
+
+
+
+
+
+
+
+
